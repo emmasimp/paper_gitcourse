@@ -1,5 +1,5 @@
 # Title
-Importance of droplet activation in warm and mixed phase clouds
+Aircraft measurements of droplet activation in warm and mixed phase clouds
 
 # Author
 Emma Simpson
