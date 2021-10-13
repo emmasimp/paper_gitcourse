@@ -16,3 +16,6 @@ Cloud aerosol interactions form the largest uncertianity in radiative forcing.
 
 # Simulations
 We simulate the activation of aerosol particles into cloud droplets in the cloud chamber
+
+# Method
+ACPIM model was used to simulate the cloud droplet number in the chamber and these simulations were compared to measurements. ACPIM is described in Connolly et al 2015
