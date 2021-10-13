@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of droplet activation in warm and mixed phase clouds
 
 # Author
-John Smith
-Emma Simpson
+John Smith, University of Elsewhere
+Emma Simpson, Univeristy of Manchester
 
 # Introduction
 The formation of cloud drops is fundemental to the climate system.
@@ -26,5 +26,5 @@ Clouds are very complicated, the results made little sense.
 # Figures
 Figures go here in draft.
 
-# conclusions
+# Conclusions
 Clouds are complicated and we do not understand them, much more work required.
