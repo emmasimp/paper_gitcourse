@@ -22,3 +22,6 @@ ACPIM model was used to simulate the cloud droplet number in the chamber and the
 
 # Results
 Clouds are very complicated, the results made little sense.
+
+# Figures
+Figures go here in draft.
