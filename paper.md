@@ -8,3 +8,5 @@ Emma Simpson
 The formation of cloud drops is fundemental to the climate system.
 
 Cloud droplets were observed in the cloud chamber (J. Bloggs et al 1990)
+
+Jones et al (1998) tried to oberserve clouds in a chamber before but they were rubbish
